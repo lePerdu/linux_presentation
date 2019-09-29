@@ -1,4 +1,4 @@
-%title: Linux - The Final Frontier
+%title: Linux - TODO Make a catchy subtitle
 %author: Zach Peltzer
 %date: 2019-10-03
 
