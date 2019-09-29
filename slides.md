@@ -147,7 +147,7 @@ From me:
 ^
 * Copy the ISO onto a USB
 ^
-* Boot from the USB (a BIOS setting)
+* Boot from the USB (may have to change some BIOS settings)
 ^
 * Follow the instructions
 
