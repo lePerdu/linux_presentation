@@ -109,6 +109,7 @@ From me:
 
 * Install it in a VM
 * Install it on your machine directly
+* Windows Subsystem for Linux
 * Use the school's supercomputer
 
 
