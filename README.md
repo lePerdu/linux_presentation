@@ -12,6 +12,8 @@ Some good beginner distros:
 - [Linux Mint](https://linuxmint.com)
 - [Pop!_OS](https://system76.com/pop)
 
-[VirtualBox](https://www.virtualbox.org)
+Virtual machine manager:
+- [VirtualBox](https://www.virtualbox.org)
 
-[Putty](https://putty.org)
+Windows SSH client:
+- [Putty](https://putty.org)
