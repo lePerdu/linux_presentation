@@ -1,6 +1,6 @@
 %title: Linux - TODO Make a catchy subtitle
 %author: Zach Peltzer
-%date: 2019-10-03
+%date: 2019-10-02
 
 -> Linux - some catchy subtitle
 ===============================
