@@ -21,6 +21,8 @@ Windows SSH client:
 Copying ISOs onto USBs:
 - [Unetbootin](https://unetbootin.github.io/)
 - [Rufus](https://rufus.ie/) (Windows only)
+- [Fedora Media Writer](https://getfedora.org/en/workstation/download) (for
+  installing Fedora)
 
 Answers to all questions or problems you may have about anything:
 - [Stack Overflow](https://stackoverflow.com)
