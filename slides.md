@@ -122,15 +122,16 @@ From me:
 ## For Windows:
 
 - Download Putty: [putty.org](https://putty.org)
-- Enter in `<netid>@ember.hpc.lab` in the "Host Name" field
+- Enter in `ember.hpc.lab` in the "Host Name" field
 - Select "SSH" connection type
 - Click "Open"
+- Type in your net ID
 - Type in your password when prompted
 
 ## For Mac:
 
 - Open a terminal
-- Type in `ssh <netid>@ember.hpc.lab`
+- Enter in `ssh <netid>@ember.hpc.lab`
 - Type in your password
 
 
