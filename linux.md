@@ -30,6 +30,7 @@ From me:
 > A free and open source, highly-configurable,
 > developer-oriented operating system.
 
+
 ---
 
 
@@ -51,17 +52,11 @@ From me:
 * Package managers
 ^
 * Development tools are made for Linux/Unix
-  ^
   - C/C++
-  ^
-  - Python ❤
-  ^
+  - Python
   - NodeJS
-  ^
   - Ruby
-  ^
   - Rust ❤
-  ^
   - Brainfuck
 ^
 * Linux is hipster 😎
@@ -75,7 +70,7 @@ From me:
 
 ^
 
-* Some stuff doesn't run on Linux 😢
+* Some stuff doesn't run on Linux 😞
   - M$ Office
   - M$ Paint
   - Adobe Creative Cloud
@@ -104,8 +99,6 @@ From me:
 
 ^
 -> **A bunch of ways!**
-
-^
 
 * Install it in a VM
 * Install it on your machine directly
