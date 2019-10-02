@@ -71,8 +71,8 @@ From me:
 ^
 
 * Some stuff doesn't run on Linux 😞
-  - M$ Office
-  - M$ Paint
+  - M\$ Office
+  - M\$ Paint
   - Adobe Creative Cloud
   - Some games
 ^
@@ -188,7 +188,9 @@ From me:
 ---
 
 
--> Questions?
-=============
+> The proprietary OS users have nothing to lose but their chains.
+> They have a world to win.
 
--> (Ask at https://stackoverflow.com)
+^
+
+-> *Computer Users of All Devices, Unite!* <-
