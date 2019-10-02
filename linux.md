@@ -1,9 +1,10 @@
-%title: Linux - TODO Make a catchy subtitle
+%title: Linux - Why You Should FOSS Daily
 %author: Zach Peltzer
 %date: 2019-10-02
 
--> Linux - some catchy subtitle
-===============================
+
+-> Linux - Why You should FOSS Daily
+====================================
 
 
 ---
